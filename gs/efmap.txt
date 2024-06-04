@@ -1,0 +1,67 @@
+# 请规范定义振动效果映射，保存后自动更新
+# 当前版本支持自动更新！！！
+
+# 通知振动强度vmax
+strength_notification=2730
+
+# 触感反馈振动强度cl_vmax、fifomax
+strength_hapticFeedbackCl=8000
+strength_hapticFeedbackFifo=10000
+
+# app自定义振动 默认为 effect_的值与＝的值相等
+
+# 影响多任务卡片切换震感
+effect_7=6
+effect_6=6
+
+# 影响返回手势、字符选取等震感（定调整个手机的震感风格）
+effect_2=112
+
+# 非定制键盘震感
+effect_110=110
+effect_111=111
+effect_112=112
+
+# 内存清除按钮
+effect_47=47
+
+# 通知清除按钮
+effect_364=364
+
+# 搜狗输入法仿真键盘（一）
+effect_302=6
+effect_303=6
+
+# 搜狗输入法仿真键盘（二）
+effect_304=112
+effect_305=112
+
+# 三段式按钮
+effect_308=308
+
+# 锁屏振动
+effect_315=315
+effect_316=6
+
+# 截屏振动
+effect_318=318
+
+# 多任务反馈振动
+effect_309=8
+effect_310=310
+
+# 音量与亮度等阶梯式震感
+effect_105=107
+# 阶梯边缘振动
+effect_106=6
+# 音量调节
+effect_107=112
+
+# 指纹解锁振动
+effect_4=4
+effect_109=109
+
+# 某些不常用震动
+effect_118=118
+effect_108=108
+effect_122=122
