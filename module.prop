@@ -1,0 +1,6 @@
+id=OP11VibrationOptimization
+name=OPLUS_0916马达振动增强v4.6<预览版>
+version=v4.6_Pre
+versionCode=4600
+author=酷安@水竹闲士
+description=为欧加系列搭载0916马达提供振感增强与自定义服务，在/storage/emulated/0/Android/gs_vibrator/下修改。适配支持[一加11]、[一加Ace2Pro]、[一加12]。注意：请勿进行马达校准，将导致马达失灵！！
